@@ -52,34 +52,7 @@ See `ISYE_6644_Team153_final_report.pdf` for detailed results and figures.
 
 ---
 
-## 📊 Example Output
-
-> Example: `Reduced β = 0.25`
-
-![Example Output](SEIR_Output/SEIR_Reduced_beta_0_25.png)
-
----
-
 ## 📄 Requirements
 
 - MATLAB R2023a or later  
 - No additional toolboxes needed  
-
----
-
-## 📝 Reference
-
-This simulation is described in detail in our final report:
-> [📘 ISYE_6644_Team153_final_report.pdf](./ISYE_6644_Team153_final_report.pdf)
-
----
-
-## 👩🏻‍💻 Author
-
-**Goyeun Yun**  
-- OMSA student @ Georgia Tech  
-- Former Regulatory Affairs Specialist  
-- Passionate about data-driven public health modeling  
-
-📫 Email: goneyak0323@gmail.com  
-🌐 GitHub: [@goneyak](https://github.com/goneyak)
